@@ -288,4 +288,7 @@ background-repeat: no-repeat;
   .section_right_display{
     width: 100%;
   }
+  .brand_img{
+    flex-wrap: wrap;
+  }
 }
