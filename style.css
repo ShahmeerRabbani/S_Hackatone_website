@@ -263,6 +263,7 @@ background-image: url(./images/Illustration2.png);
 width: 50%;
 background-size: contain;
 background-repeat: no-repeat;
+background-position: 260px;
 }
 
 .form_input input{
@@ -291,6 +292,7 @@ background-repeat: no-repeat;
   }
   .section_right_display{
     width: 100%;
+    height: 600px;
   }
   .brand_img{
     flex-wrap: wrap;
@@ -311,5 +313,8 @@ background-repeat: no-repeat;
   .menu_icon{
     display: block;
     cursor: pointer;
+  }
+  .form-img{
+    display: none;
   }
 }
