@@ -238,15 +238,21 @@ footer  ul{
 .form_input{
   display: flex;
   flex-direction: column;
-  background-color: #f5f5f5;
   justify-content: center;
   width: 50%;
-  border-radius: 20px;
   padding: 50px;
 }
 
-.form-img{
+.form > .container{
+  border-radius: 20px;
+  background-color: #f5f5f5;
+display: flex;
+}
 
+.form-img{
+background-image: url(./images/Illustration2.png);
+width: 50%;
+background-size: contain;
 }
 
 .form_input input{
