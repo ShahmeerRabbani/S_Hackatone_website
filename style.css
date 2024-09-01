@@ -278,8 +278,14 @@ background-repeat: no-repeat;
   background-color: #191A23;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .section_content{
     flex-direction: column;
+  }
+  .section_left_text{
+    width: 100%;
+  }
+  .section_right_display{
+    width: 100%;
   }
 }
