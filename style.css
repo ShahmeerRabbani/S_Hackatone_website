@@ -323,4 +323,17 @@ background-position: 260px;
     gap: 30px;
     align-items: center;
   }
+  .contact_us{
+    align-items: center;
+    justify-content: center;
+  }
+  .email{
+    flex-direction: column;
+    width: 100%;
+  }
+  .footer_divTwo{
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
 }
