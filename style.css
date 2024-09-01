@@ -317,4 +317,10 @@ background-position: 260px;
   .form-img{
     display: none;
   }
+
+  .footer_divOne{
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+  }
 }
