@@ -291,4 +291,12 @@ background-repeat: no-repeat;
   .brand_img{
     flex-wrap: wrap;
   }
+  .services{
+    width: 100%;
+    flex-direction: column;
+  }
+  .working_heading{
+    width: 100%;
+    flex-direction: column;
+  }
 }
